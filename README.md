@@ -1,3 +1,7 @@
+# Fork changes
+
+Bumped wkhtmltopdf version to 0.12.4
+
 # wkhtmltopdf Buildpack
 
 This is a [Heroku buildpack][0] for bundling a compatible [wkhtmltopdf][1] binary with your environment.
