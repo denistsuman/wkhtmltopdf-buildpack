@@ -1,6 +1,7 @@
 # Fork changes
 
-Bumped wkhtmltopdf version to 0.12.4
+1. Bumped wkhtmltopdf version to 0.12.4
+2. Changed download URL from download.gna.com to downloads.wkhtmltopdf.org
 
 # wkhtmltopdf Buildpack
 
